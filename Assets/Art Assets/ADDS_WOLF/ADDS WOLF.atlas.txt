@@ -1,0 +1,197 @@
+
+ADDS WOLF.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 RUN200
+  rotate: false
+  xy: 2, 816
+  size: 1540, 1215
+  orig: 1540, 1219
+  offset: 0, 4
+  index: -1
+ADDS1 RUN204
+  rotate: false
+  xy: 2, 2
+  size: 1540, 812
+  orig: 1540, 1219
+  offset: 0, 91
+  index: -1
+
+ADDS WOLF2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 RUN201
+  rotate: false
+  xy: 2, 698
+  size: 1540, 1213
+  orig: 1540, 1219
+  offset: 0, 4
+  index: -1
+ADDS1 RUN205
+  rotate: false
+  xy: 2, 2
+  size: 1540, 694
+  orig: 1540, 1219
+  offset: 0, 277
+  index: -1
+
+ADDS WOLF3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 RUN202
+  rotate: false
+  xy: 2, 923
+  size: 1540, 1010
+  orig: 1540, 1219
+  offset: 0, 89
+  index: -1
+ADDS1 RUN203
+  rotate: false
+  xy: 2, 2
+  size: 1540, 919
+  orig: 1540, 1219
+  offset: 0, 15
+  index: -1
+
+ADDS WOLF4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 ATK00
+  rotate: false
+  xy: 2, 2
+  size: 1233, 1095
+  orig: 1233, 1099
+  offset: 0, 2
+  index: -1
+
+ADDS WOLF5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 ATK01
+  rotate: false
+  xy: 2, 2
+  size: 1233, 1095
+  orig: 1233, 1099
+  offset: 0, 2
+  index: -1
+
+ADDS WOLF6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 ATK02
+  rotate: false
+  xy: 2, 2
+  size: 1233, 1095
+  orig: 1233, 1099
+  offset: 0, 2
+  index: -1
+
+ADDS WOLF7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 ATK03
+  rotate: false
+  xy: 2, 2
+  size: 1233, 1095
+  orig: 1233, 1099
+  offset: 0, 2
+  index: -1
+
+ADDS WOLF8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 ATK04
+  rotate: false
+  xy: 2, 2
+  size: 1233, 1095
+  orig: 1233, 1099
+  offset: 0, 2
+  index: -1
+
+ADDS WOLF9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 IDLE00
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1091
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1
+
+ADDS WOLF10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 IDLE01
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1075
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1
+
+ADDS WOLF11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 IDLE05
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1075
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1
+
+ADDS WOLF12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 IDLE02
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1073
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1
+ADDS1 IDLE04
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1073
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1
+
+ADDS WOLF13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADDS1 IDLE03
+  rotate: false
+  xy: 2, 2
+  size: 1143, 1063
+  orig: 1143, 1109
+  offset: 0, 1
+  index: -1

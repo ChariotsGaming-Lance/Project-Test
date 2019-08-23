@@ -1,0 +1,75 @@
+{
+"skeleton": { "hash": "XSPlXDDNRG0lA7zR0iizQawH1oc", "spine": "3.7.94", "width": 0, "height": 0, "images": "", "audio": "/Users/edriclee/Desktop/Character Assets/Concept Krechur/BEAST 1" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Sprite", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Sprite": {
+			"ADDS1 ATK00": { "x": 0.5, "y": 548.71, "width": 1233, "height": 1099 },
+			"ADDS1 ATK01": { "x": 0.5, "y": 546.41, "width": 1233, "height": 1099 },
+			"ADDS1 ATK02": { "x": 0.5, "y": 547.71, "width": 1233, "height": 1099 },
+			"ADDS1 ATK03": { "x": 0.5, "y": 547.71, "width": 1233, "height": 1099 },
+			"ADDS1 ATK04": { "x": 0.5, "y": 546.41, "width": 1233, "height": 1099 },
+			"ADDS1 IDLE00": { "x": 0.5, "y": 554.24, "width": 1143, "height": 1109 },
+			"ADDS1 IDLE01": { "x": 0.5, "y": 554.24, "width": 1143, "height": 1109 },
+			"ADDS1 IDLE02": { "x": 0.5, "y": 554.24, "width": 1143, "height": 1109 },
+			"ADDS1 IDLE03": { "x": 0.5, "y": 554.24, "width": 1143, "height": 1109 },
+			"ADDS1 IDLE04": { "x": 0.5, "y": 554.63, "width": 1143, "height": 1109 },
+			"ADDS1 IDLE05": { "x": 0.5, "y": 554.24, "width": 1143, "height": 1109 },
+			"ADDS1 RUN200": { "y": 606.48, "width": 1540, "height": 1219 },
+			"ADDS1 RUN201": { "y": 605.18, "width": 1540, "height": 1219 },
+			"ADDS1 RUN202": { "y": 602.57, "width": 1540, "height": 1219 },
+			"ADDS1 RUN203": { "y": 602.57, "width": 1540, "height": 1219 },
+			"ADDS1 RUN204": { "y": 580.36, "width": 1540, "height": 1219 },
+			"ADDS1 RUN205": { "y": 537.27, "width": 1540, "height": 1219 }
+		}
+	}
+},
+"animations": {
+	"Attack": {
+		"slots": {
+			"Sprite": {
+				"attachment": [
+					{ "time": 0, "name": "ADDS1 ATK00" },
+					{ "time": 0.1333, "name": "ADDS1 ATK01" },
+					{ "time": 0.2667, "name": "ADDS1 ATK02" },
+					{ "time": 0.4333, "name": "ADDS1 ATK03" },
+					{ "time": 0.5, "name": "ADDS1 ATK04" }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"slots": {
+			"Sprite": {
+				"attachment": [
+					{ "time": 0, "name": "ADDS1 IDLE00" },
+					{ "time": 0.1667, "name": "ADDS1 IDLE01" },
+					{ "time": 0.3333, "name": "ADDS1 IDLE02" },
+					{ "time": 0.5, "name": "ADDS1 IDLE03" },
+					{ "time": 0.6667, "name": "ADDS1 IDLE04" },
+					{ "time": 0.8333, "name": "ADDS1 IDLE05" }
+				]
+			}
+		}
+	},
+	"Run": {
+		"slots": {
+			"Sprite": {
+				"attachment": [
+					{ "time": 0, "name": "ADDS1 RUN200" },
+					{ "time": 0.1, "name": "ADDS1 RUN201" },
+					{ "time": 0.2, "name": "ADDS1 RUN202" },
+					{ "time": 0.3, "name": "ADDS1 RUN203" },
+					{ "time": 0.4, "name": "ADDS1 RUN204" },
+					{ "time": 0.5, "name": "ADDS1 RUN205" }
+				]
+			}
+		}
+	}
+}
+}
