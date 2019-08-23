@@ -1,0 +1,17 @@
+TODO
+
+Dash system -- DONE
+Tackle physics -- DONE
+
+AI
+Head bomb
+Bomb
+Stage timer
+
+Shield system
+Gameplay loop
+Level design
+Glow system
+Map tile
+Animation for getting attacked
+Implement new animation sets including charge feedback

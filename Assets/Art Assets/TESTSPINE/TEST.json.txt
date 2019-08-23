@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "7ns25qB7SD7Z+GZ4gtlAOHFX7ss", "spine": "3.7.94", "width": 973, "height": 706, "images": "/Users/edriclee/Desktop/TEST", "audio": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "TESTSPRITE", "bone": "root", "attachment": "4" }
+],
+"skins": {
+	"default": {
+		"TESTSPRITE": {
+			"1": { "x": 0.5, "width": 1019, "height": 826 },
+			"3": { "x": 0.5, "width": 973, "height": 706 },
+			"4": { "x": 0.5, "width": 973, "height": 706 }
+		}
+	}
+},
+"animations": {
+	"anim2": {
+		"slots": {
+			"TESTSPRITE": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.1, "name": "3" },
+					{ "time": 0.2, "name": "4" }
+				]
+			}
+		}
+	},
+	"animation": {
+		"slots": {
+			"TESTSPRITE": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.1667, "name": "4" },
+					{ "time": 0.3333, "name": "3" }
+				]
+			}
+		}
+	}
+}
+}

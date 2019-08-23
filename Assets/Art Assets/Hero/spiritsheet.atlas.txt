@@ -1,0 +1,76 @@
+
+spiritsheet.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images 1/arms b
+  rotate: false
+  xy: 256, 8
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+images 1/arms f
+  rotate: false
+  xy: 530, 14
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+images 1/body
+  rotate: true
+  xy: 2, 2
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+images 1/legs b
+  rotate: true
+  xy: 620, 25
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+images 1/legs f
+  rotate: true
+  xy: 810, 51
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+images BNW/arms b
+  rotate: false
+  xy: 347, 8
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+images BNW/arms f
+  rotate: false
+  xy: 438, 14
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+images BNW/body
+  rotate: true
+  xy: 129, 2
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+images BNW/legs b
+  rotate: true
+  xy: 715, 25
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+images BNW/legs f
+  rotate: true
+  xy: 906, 51
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1

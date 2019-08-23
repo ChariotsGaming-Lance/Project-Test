@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 2a99dcf243ad24d6f91518531fad265f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7405027154135056795
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_0
+  - first:
+      213: -3270288239966749192
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_1
+  - first:
+      213: -5723439655461436542
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_2
+  - first:
+      213: 6392770803699109185
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_3
+  - first:
+      213: 4853921226949938341
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_4
+  - first:
+      213: -4952418056435175430
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_5
+  - first:
+      213: -5850115587504301380
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_6
+  - first:
+      213: 6051418447370851641
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_7
+  - first:
+      213: 4658033171528911927
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_8
+  - first:
+      213: 1702739237133708839
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_9
+  - first:
+      213: -3965390800930122775
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_10
+  - first:
+      213: 7010869851874264083
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_11
+  - first:
+      213: -1039792430029049487
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_12
+  - first:
+      213: 5913715512957991368
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_13
+  - first:
+      213: -752276891987398691
+    second: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1321
+        width: 810
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b17549a33cb4e848836e5f06533a90
+      internalID: 7405027154135056795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_1
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1290
+        width: 627
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d386120fd4e4f43b528c86c984f1c4
+      internalID: -3270288239966749192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 815
+        width: 711
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f92c6ce9f24fb4aeb03d4c8525ae6
+      internalID: -5723439655461436542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 807
+        width: 795
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9209f0f06e4ba496f89a8fa7bb982
+      internalID: 6392770803699109185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 473
+        width: 726
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94dd4f6c28d4877bf3ee8276e61010
+      internalID: 4853921226949938341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 445
+        width: 370
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d6f6b83f4c4e829e5c1b4bf2a2f39
+      internalID: -4952418056435175430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_6
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 635
+        width: 386
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef11142ecde443fa07f68a5ac6d5be
+      internalID: -5850115587504301380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_7
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 453
+        width: 423
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1031ab37f44470b5764121076c224
+      internalID: 6051418447370851641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 66
+        width: 518
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d18d96ca65949e79de45380b7aaf91
+      internalID: 4658033171528911927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 65
+        width: 395
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd061d017cf4966b9e9b1fa40ebe21
+      internalID: 1702739237133708839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 284
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112548f05ec4446dcb3611630d7dbcbe
+      internalID: -3965390800930122775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 91
+        width: 463
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c89a45205ab4444bb042a82012dedf
+      internalID: 7010869851874264083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_12
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 295
+        width: 212
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3851a09d06b4f16a9960431a1cf9f2
+      internalID: -1039792430029049487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_13
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 245
+        width: 175
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d937f1e5d94abdbd508bc9baf06dd
+      internalID: 5913715512957991368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rock-cartoon-boulder-vector-cartoon-stone-5a82448a471017.8013783515184866662911_14
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 116
+        width: 206
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b67f2735f44b37975430de9cc576e
+      internalID: -752276891987398691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e5d0f2babe2c84bc79e06e0ba743d07f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
